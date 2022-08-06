@@ -1,6 +1,6 @@
 Stack used:
 Twitter API - RecentSearch
-Twitter loader - GCP toolkit
+Twitter loader - GCP toolkit deployed using App Engine
 GCP - BigQuery to store the data
 GCP - DataStudio to create dashboard
 
